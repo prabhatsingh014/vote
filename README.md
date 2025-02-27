@@ -1,6 +1,8 @@
 # Vote App Frontend 
 
-This is a frontend app, part of [Example Voting App](https://github.com/schoolofdevops/example-voting-app).  
+This is a frontend app, part of [Example Voting App](https://github.com/schoolofdevops/example-voting-app).
+
+* Dummy PR 1
 
 To build and run this app as a container, 
 
